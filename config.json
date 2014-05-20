@@ -1,0 +1,6 @@
+{
+	"cacheSystem": {
+		"type" : "ZDC",
+		"expireTime": 3600
+	}
+}
